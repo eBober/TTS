@@ -1,0 +1,1905 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+    xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+    http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+    alphabet="ipa" xml:lang="ru">
+<!---->
+<lexeme>
+	<grapheme>белка</grapheme>
+	<grapheme>Белка</grapheme>
+	<phoneme>bʲ'elkə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>белке</grapheme>
+	<grapheme>Белке</grapheme>
+	<phoneme>bʲ'elkʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>величины</grapheme>
+	<grapheme>Величины</grapheme>
+	<phoneme>vʲilʲit͡ɕin'ɨ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>вещая</grapheme>
+	<grapheme>Вещая</grapheme>
+	<phoneme>vʲ'eɕ:ijə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>вещей</grapheme>
+	<grapheme>Вещей</grapheme>
+	<phoneme>vʲiɕ:'ej</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>видение</grapheme>
+	<grapheme>Видение</grapheme>
+	<phoneme>vʲidʲ'e nʲijə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>видением</grapheme>
+	<grapheme>Видением</grapheme>
+	<phoneme>vʲidʲ'enʲiəm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>видении</grapheme>
+	<grapheme>Видении</grapheme>
+	<phoneme>vʲidʲ'e nʲii</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>видений</grapheme>
+	<grapheme>Видений</grapheme>
+	<phoneme>vʲidʲ'enʲij</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>видению</grapheme>
+	<grapheme>Видению</grapheme>
+	<phoneme>vʲidʲ'e nʲiju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>видения</grapheme>
+	<grapheme>Видения</grapheme>
+	<phoneme>vʲidʲ'enʲi jə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>видениям</grapheme>
+	<grapheme>Видениям</grapheme>
+	<phoneme>vʲidʲ'enʲ jəm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>видениями</grapheme>
+	<grapheme>Видениями</grapheme>
+	<phoneme>vʲidʲ'enʲ jəmʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>видениях</grapheme>
+	<grapheme>Видениях</grapheme>
+	<phoneme>vʲidʲ'e nʲjəx</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>виски</grapheme>
+	<grapheme>Виски</grapheme>
+	<phoneme>vʲ'iskʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>вносим</grapheme>
+	<grapheme>Вносим</grapheme>
+	<phoneme>vn'osʲim</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>воды</grapheme>
+	<grapheme>Воды</grapheme>
+	<phoneme>vɐd'ɨ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>войны</grapheme>
+	<grapheme>Войны</grapheme>
+	<phoneme>vəjn'ɨ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>ворона</grapheme>
+	<grapheme>Ворона</grapheme>
+	<phoneme>vɐr'onə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>воронам</grapheme>
+	<grapheme>Воронам</grapheme>
+	<phoneme>vɐr'onəm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>воронами</grapheme>
+	<grapheme>Воронами</grapheme>
+	<phoneme>vɐr'o nəmʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>воронах</grapheme>
+	<grapheme>Воронах</grapheme>
+	<phoneme>vɐr'o nəx</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>вороне</grapheme>
+	<grapheme>Вороне</grapheme>
+	<phoneme>vɐr'onʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>воронка</grapheme>
+	<grapheme>Воронка</grapheme>
+	<phoneme>vɐr'onkə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>воронкам</grapheme>
+	<grapheme>Воронкам</grapheme>
+	<phoneme>vɐr'onkəm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>воронками</grapheme>
+	<grapheme>Воронками</grapheme>
+	<phoneme>vɐr'onkəmʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>воронках</grapheme>
+	<grapheme>Воронках</grapheme>
+	<phoneme>vɐr'onkəx</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>воронке</grapheme>
+	<grapheme>Воронке</grapheme>
+	<phoneme>vɐr'on kʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>воронки</grapheme>
+	<grapheme>Воронки</grapheme>
+	<phoneme>vɐr'on kʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>воронку</grapheme>
+	<grapheme>Воронку</grapheme>
+	<phoneme>vɐr'onku</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>вороной</grapheme>
+	<grapheme>Вороной</grapheme>
+	<phoneme>vɐr'onəj</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>вороном</grapheme>
+	<grapheme>Вороном</grapheme>
+	<phoneme>v'orɐ nəm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>вороною</grapheme>
+	<grapheme>Вороною</grapheme>
+	<phoneme>vɐr'o nəju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>ворону</grapheme>
+	<grapheme>Ворону</grapheme>
+	<phoneme>vɐr'onu</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>вороны</grapheme>
+	<grapheme>Вороны</grapheme>
+	<phoneme>vɐr'onɨ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>восстановим</grapheme>
+	<grapheme>Восстановим</grapheme>
+	<phoneme>vəstɐ n'ovʲim</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>восстановите</grapheme>
+	<grapheme>Восстановите</grapheme>
+	<phoneme>vəstɐn'ovʲitʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>восхищён</grapheme>
+	<grapheme>Восхищён</grapheme>
+	<phoneme>və sxʲiɕː'on</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>восхищённая</grapheme>
+	<grapheme>Восхищённая</grapheme>
+	<phoneme>vəs xʲiɕ:'onəjə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>восхищённо</grapheme>
+	<grapheme>Восхищённо</grapheme>
+	<phoneme>vəsxʲi ɕ:'onə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>восхищённого</grapheme>
+	<grapheme>Восхищённого</grapheme>
+	<phoneme>vəsxʲiɕ:'onəvə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>восхищённое</grapheme>
+	<grapheme>Восхищённое</grapheme>
+	<phoneme>vəs xʲiɕ:'onəjə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>восхищённой</grapheme>
+	<grapheme>Восхищённой</grapheme>
+	<phoneme>vəs xʲiɕ:'onəj</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>восхищённом</grapheme>
+	<grapheme>Восхищённом</grapheme>
+	<phoneme>vəs xʲiɕ:'onəm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>восхищённому</grapheme>
+	<grapheme>Восхищённому</grapheme>
+	<phoneme>vəsxʲiɕ:'onəmu</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>восхищённою</grapheme>
+	<grapheme>Восхищённою</grapheme>
+	<phoneme>vəsxʲiɕ:'onəju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>восхищённую</grapheme>
+	<grapheme>Восхищённую</grapheme>
+	<phoneme>vəs xʲiɕ:'onuju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>восхищённые</grapheme>
+	<grapheme>Восхищённые</grapheme>
+	<phoneme>vəsxʲiɕ:'onɨ jə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>восхищённый</grapheme>
+	<grapheme>Восхищённый</grapheme>
+	<phoneme>vəs xʲiɕ:'onɨj</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>восхищённым</grapheme>
+	<grapheme>Восхищённым</grapheme>
+	<phoneme>vəs xʲiɕ:'onɨm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>восхищёнными</grapheme>
+	<grapheme>Восхищёнными</grapheme>
+	<phoneme>vəs xʲiɕ:'onɨmʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>восхищённых</grapheme>
+	<grapheme>Восхищённых</grapheme>
+	<phoneme>vəs xʲiɕ:'onɨx</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>врезав</grapheme>
+	<grapheme>Врезав</grapheme>
+	<phoneme>vrʲ'e zəv</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>врезавшись</grapheme>
+	<grapheme>Врезавшись</grapheme>
+	<phoneme>vrʲ'ezəvʂɨsʲ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>вселенная</grapheme>
+	<grapheme>Вселенная</grapheme>
+	<phoneme>vsʲilʲ'ennəjə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>вселенной</grapheme>
+	<grapheme>Вселенной</grapheme>
+	<phoneme>vsʲilʲ'ennəj</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>вселенную</grapheme>
+	<grapheme>Вселенную</grapheme>
+	<phoneme>vsʲilʲ'en nuju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>вселенным</grapheme>
+	<grapheme>Вселенным</grapheme>
+	<phoneme>vsʲilʲ'ennɨm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>вселенных</grapheme>
+	<grapheme>Вселенных</grapheme>
+	<phoneme>vsʲilʲ'ennɨx</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>вспугнут</grapheme>
+	<grapheme>Вспугнут</grapheme>
+	<phoneme>vspugn 'ut</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>всыпала</grapheme>
+	<grapheme>Всыпала</grapheme>
+	<phoneme>vs'ɨpəl ə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>вывозим</grapheme>
+	<grapheme>Вывозим</grapheme>
+	<phoneme>vɨv'ozʲim</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>выносил</grapheme>
+	<grapheme>Выносил</grapheme>
+	<phoneme>vɨnə sʲ'il</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>выносила</grapheme>
+	<grapheme>Выносила</grapheme>
+	<phoneme>vɨnə sʲ'ilə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>выносилась</grapheme>
+	<grapheme>Выносилась</grapheme>
+	<phoneme>vɨ nəsʲ'iləsʲ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>выносили</grapheme>
+	<grapheme>Выносили</grapheme>
+	<phoneme>vɨnə sʲ'ilʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>выносились</grapheme>
+	<grapheme>Выносились</grapheme>
+	<phoneme>vɨnə sʲ'ilʲisʲ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>выносило</grapheme>
+	<grapheme>Выносило</grapheme>
+	<phoneme>vɨnə sʲ'ilə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>выносилось</grapheme>
+	<grapheme>Выносилось</grapheme>
+	<phoneme>vɨnə sʲ'iləsʲ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>выносился</grapheme>
+	<grapheme>Выносился</grapheme>
+	<phoneme>vɨnə sʲ'ilsʲə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>выносим</grapheme>
+	<grapheme>Выносим</grapheme>
+	<phoneme>vɨn'osʲim</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>выносимся</grapheme>
+	<grapheme>Выносимся</grapheme>
+	<phoneme>vɨ'n'osʲimsʲə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>выносит</grapheme>
+	<grapheme>Выносит</grapheme>
+	<phoneme>vɨ'n'osʲit</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>выносите</grapheme>
+	<grapheme>Выносите</grapheme>
+	<phoneme>vɨnə sʲ'itʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>выноситесь</grapheme>
+	<grapheme>Выноситесь</grapheme>
+	<phoneme>vɨnə sʲ'itʲisʲ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>выносится</grapheme>
+	<grapheme>Выносится</grapheme>
+	<phoneme>vɨn'osʲit͡sə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>выносишь</grapheme>
+	<grapheme>Выносишь</grapheme>
+	<phoneme>vɨn'osʲiʂ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>выносишься</grapheme>
+	<grapheme>Выносишься</grapheme>
+	<phoneme>vɨn'osʲi ʂsʲə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>выносят</grapheme>
+	<grapheme>Выносят</grapheme>
+	<phoneme>vɨn'osʲət</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>выносятся</grapheme>
+	<grapheme>Выносятся</grapheme>
+	<phoneme>vɨn'osʲit͡sə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>выношу</grapheme>
+	<grapheme>Выношу</grapheme>
+	<phoneme>vɨnə ʂ'u</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>выношусь</grapheme>
+	<grapheme>Выношусь</grapheme>
+	<phoneme>vɨnɐʂ'u sʲ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>высоты</grapheme>
+	<grapheme>Высоты</grapheme>
+	<phoneme>vɨsɐt'ɨ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>выходите</grapheme>
+	<grapheme>Выходите</grapheme>
+	<phoneme>vɨxɐ dʲ'itʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>глазками</grapheme>
+	<grapheme>Глазками</grapheme>
+	<phoneme>gl'azkəmʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>глазки</grapheme>
+	<grapheme>Глазки</grapheme>
+	<phoneme>gl'az kʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>глазки-то</grapheme>
+	<grapheme>Глазки-то</grapheme>
+	<phoneme>gl'az kʲitə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>глоткам</grapheme>
+	<grapheme>Глоткам</grapheme>
+	<phoneme>gl'otkəm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>глотках</grapheme>
+	<grapheme>Глотках</grapheme>
+	<phoneme>gl'otkəx</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>глотке</grapheme>
+	<grapheme>Глотке</grapheme>
+	<phoneme>gl'otkʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>глотки</grapheme>
+	<grapheme>Глотки</grapheme>
+	<phoneme>gl'otkʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>глотку</grapheme>
+	<grapheme>Глотку</grapheme>
+	<phoneme>gl'otku</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>глубины</grapheme>
+	<grapheme>Глубины</grapheme>
+	<phoneme>glubʲin'ɨ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>гнезда</grapheme>
+	<grapheme>Гнезда</grapheme>
+	<phoneme>gnʲizd'a</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>года</grapheme>
+	<grapheme>Года</grapheme>
+	<phoneme>g'odə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>году</grapheme>
+	<grapheme>Году</grapheme>
+	<phoneme>gɐd'u</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>города</grapheme>
+	<grapheme>Города</grapheme>
+	<phoneme>g'orədɐ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>горю</grapheme>
+	<grapheme>Горю</grapheme>
+	<phoneme>g'o rʲu</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>горя</grapheme>
+	<grapheme>Горя</grapheme>
+	<phoneme>g'o rʲə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>господа</grapheme>
+	<grapheme>Господа</grapheme>
+	<phoneme>gəspɐd'a</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>гостя</grapheme>
+	<grapheme>Гостя</grapheme>
+	<phoneme>g'osʲtʲə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>груди</grapheme>
+	<grapheme>Груди</grapheme>
+	<phoneme>grudʲ'i</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>грунтовая</grapheme>
+	<grapheme>Грунтовая</grapheme>
+	<phoneme>grunt'ovəjə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>грунтового</grapheme>
+	<grapheme>Грунтового</grapheme>
+	<phoneme>grunt'ovəvə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>грунтовое</grapheme>
+	<grapheme>Грунтовое</grapheme>
+	<phoneme>grunt'ovəjə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>грунтовой</grapheme>
+	<grapheme>Грунтовой</grapheme>
+	<phoneme>ɡrunt'ovə j</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>грунтовом</grapheme>
+	<grapheme>Грунтовом</grapheme>
+	<phoneme>grunt'ovəm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>грунтовому</grapheme>
+	<grapheme>Грунтовому</grapheme>
+	<phoneme>grunt'ovəmu</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>грунтовою</grapheme>
+	<grapheme>Грунтовою</grapheme>
+	<phoneme>grunt'ovəju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>грунтовую</grapheme>
+	<grapheme>Грунтовую</grapheme>
+	<phoneme>grunt'ovuju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>грунтовые</grapheme>
+	<grapheme>Грунтовые</grapheme>
+	<phoneme>grun t'ovɨi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>грунтовым</grapheme>
+	<grapheme>Грунтовым</grapheme>
+	<phoneme>grunt'ovɨm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>грунтовыми</grapheme>
+	<grapheme>Грунтовыми</grapheme>
+	<phoneme>grunt'ovɨmʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>грунтовых</grapheme>
+	<grapheme>Грунтовых</grapheme>
+	<phoneme>grunt'ovɨx</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>грусти</grapheme>
+	<grapheme>Грусти</grapheme>
+	<phoneme>grusʲtʲ'i</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>грязно</grapheme>
+	<grapheme>Грязно</grapheme>
+	<phoneme>grʲ'a znə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>густоты</grapheme>
+	<grapheme>Густоты</grapheme>
+	<phoneme>gustat'ɨ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>дембеля</grapheme>
+	<grapheme>Дембеля</grapheme>
+	<phoneme>dʲ'emʲbʲilʲə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>доктора</grapheme>
+	<grapheme>Доктора</grapheme>
+	<phoneme>d'oktərə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>долготы</grapheme>
+	<grapheme>Долготы</grapheme>
+	<phoneme>dəlgɐt'ɨ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>долей</grapheme>
+	<grapheme>Долей</grapheme>
+	<phoneme>d'olʲi j</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>домино</grapheme>
+	<grapheme>Домино</grapheme>
+	<phoneme>dəmʲin'o</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>домину</grapheme>
+	<grapheme>Домину</grapheme>
+	<phoneme>dɐmʲ'i nu</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>домового</grapheme>
+	<grapheme>Домового</grapheme>
+	<phoneme>dəmɐv'ovə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>домовой</grapheme>
+	<grapheme>Домовой</grapheme>
+	<phoneme>dəmɐv'oj</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>домовом</grapheme>
+	<grapheme>Домовом</grapheme>
+	<phoneme>dəmɐv'om</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>домовому</grapheme>
+	<grapheme>Домовому</grapheme>
+	<phoneme>dəmɐv'omu</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>домовою</grapheme>
+	<grapheme>Домовою</grapheme>
+	<phoneme>dɐm'ovəju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>домовые</grapheme>
+	<grapheme>Домовые</grapheme>
+	<phoneme>də mɐv'ɨjə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>домовым</grapheme>
+	<grapheme>Домовым</grapheme>
+	<phoneme>dəmɐ v'ɨm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>домовыми</grapheme>
+	<grapheme>Домовыми</grapheme>
+	<phoneme>dəmɐv'ɨmʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>домовых</grapheme>
+	<grapheme>Домовых</grapheme>
+	<phoneme>dəmɐv'ɨx</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>допустим</grapheme>
+	<grapheme>Допустим</grapheme>
+	<phoneme>dɐp'usʲtʲi m</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>дорогой</grapheme>
+	<grapheme>Дорогой</grapheme>
+	<phoneme>dərɐg'oj</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>дохла</grapheme>
+	<grapheme>Дохла</grapheme>
+	<phoneme>d'oxlə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>дохнуть</grapheme>
+	<grapheme>Дохнуть</grapheme>
+	<phoneme>d'oxnutʲ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>другом</grapheme>
+	<grapheme>Другом</grapheme>
+	<phoneme>drug'o m</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>дурная</grapheme>
+	<grapheme>Дурная</grapheme>
+	<phoneme>durn'ajə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>дурное</grapheme>
+	<grapheme>Дурное</grapheme>
+	<phoneme>durn'oi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>дурном</grapheme>
+	<grapheme>Дурном</grapheme>
+	<phoneme>durn'om</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>дурному</grapheme>
+	<grapheme>Дурному</grapheme>
+	<phoneme>durn'omu</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>дурную</grapheme>
+	<grapheme>Дурную</grapheme>
+	<phoneme>durn'uju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>дурные</grapheme>
+	<grapheme>Дурные</grapheme>
+	<phoneme>durn'ɨjə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>дурным</grapheme>
+	<grapheme>Дурным</grapheme>
+	<phoneme>durn'ɨm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>дурными</grapheme>
+	<grapheme>Дурными</grapheme>
+	<phoneme>dur n'ɨmʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>дурных</grapheme>
+	<grapheme>Дурных</grapheme>
+	<phoneme>durn'ɨx</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>духов</grapheme>
+	<grapheme>Духов</grapheme>
+	<phoneme>d'uxəv</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>душ</grapheme>
+	<grapheme>Душ</grapheme>
+	<phoneme>d'uuʂ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>душа</grapheme>
+	<grapheme>Душа</grapheme>
+	<phoneme>duʂ'a</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>душам</grapheme>
+	<grapheme>Душам</grapheme>
+	<phoneme>d'uʂ əm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>душами</grapheme>
+	<grapheme>Душами</grapheme>
+	<phoneme>d'uʂɐ mʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>душах</grapheme>
+	<grapheme>Душах</grapheme>
+	<phoneme>d'uʂ əx</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>душе</grapheme>
+	<grapheme>Душе</grapheme>
+	<phoneme>duʂ'ɛ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>души</grapheme>
+	<grapheme>Души</grapheme>
+	<phoneme>duʂ'ɨ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>душу</grapheme>
+	<grapheme>Душу</grapheme>
+	<phoneme>d'uuʂu</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>егеря</grapheme>
+	<grapheme>Егеря</grapheme>
+	<phoneme>j'egʲirʲə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>жены</grapheme>
+	<grapheme>Жены</grapheme>
+	<phoneme>ʐɨn'ɨ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>жуков</grapheme>
+	<grapheme>Жуков</grapheme>
+	<phoneme>ʐuk'ov</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегавшая</grapheme>
+	<grapheme>Забегавшая</grapheme>
+	<phoneme>zəbʲig'avʂijə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегавшего</grapheme>
+	<grapheme>Забегавшего</grapheme>
+	<phoneme>zəbʲig'avʂɨvə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегавшее</grapheme>
+	<grapheme>Забегавшее</grapheme>
+	<phoneme>zəbʲig'avʂɨjə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегавшей</grapheme>
+	<grapheme>Забегавшей</grapheme>
+	<phoneme>zəbʲig'avʂɨj</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегавшем</grapheme>
+	<grapheme>Забегавшем</grapheme>
+	<phoneme>zəbʲig'avʂɨm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегавшему</grapheme>
+	<grapheme>Забегавшему</grapheme>
+	<phoneme>zəbʲig'avʂɨmu</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегавшею</grapheme>
+	<grapheme>Забегавшею</grapheme>
+	<phoneme>zəbʲig'avʂɨju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегавшие</grapheme>
+	<grapheme>Забегавшие</grapheme>
+	<phoneme>zəbʲig'avʂɨjə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегавший</grapheme>
+	<grapheme>Забегавший</grapheme>
+	<phoneme>zəbʲig'avʂɨj</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегавшим</grapheme>
+	<grapheme>Забегавшим</grapheme>
+	<phoneme>zəbʲig'avʂɨm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегавшими</grapheme>
+	<grapheme>Забегавшими</grapheme>
+	<phoneme>zəbʲig'avʂɨmʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегавших</grapheme>
+	<grapheme>Забегавших</grapheme>
+	<phoneme>zəbʲig'avʂɨx</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегавшую</grapheme>
+	<grapheme>Забегавшую</grapheme>
+	<phoneme>zəbʲig'avʂuju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегаем</grapheme>
+	<grapheme>Забегаем</grapheme>
+	<phoneme>zəbʲig'ajəm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегает</grapheme>
+	<grapheme>Забегает</grapheme>
+	<phoneme>zəbʲig'ajət</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегаете</grapheme>
+	<grapheme>Забегаете</grapheme>
+	<phoneme>zəbʲig'aitʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегаешь</grapheme>
+	<grapheme>Забегаешь</grapheme>
+	<phoneme>zəbʲig'aiʂ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегай</grapheme>
+	<grapheme>Забегай</grapheme>
+	<phoneme>zəbʲig'aj</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегайте</grapheme>
+	<grapheme>Забегайте</grapheme>
+	<phoneme>zəbʲig'ajtʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегал</grapheme>
+	<grapheme>Забегал</grapheme>
+	<phoneme>zəbʲig'al</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегала</grapheme>
+	<grapheme>Забегала</grapheme>
+	<phoneme>zəbʲig'alə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегали</grapheme>
+	<grapheme>Забегали</grapheme>
+	<phoneme>zəbʲig'alʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегало</grapheme>
+	<grapheme>Забегало</grapheme>
+	<phoneme>zəbʲ'egələ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегать</grapheme>
+	<grapheme>Забегать</grapheme>
+	<phoneme>zəbʲig'atʲ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегаю</grapheme>
+	<grapheme>Забегаю</grapheme>
+	<phoneme>zəbʲig'aj u</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забегают</grapheme>
+	<grapheme>Забегают</grapheme>
+	<phoneme>zəbʲig'ajut</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>забрала</grapheme>
+	<grapheme>Забрала</grapheme>
+	<phoneme>zə brɐl'a</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>заговор</grapheme>
+	<grapheme>Заговор</grapheme>
+	<phoneme>z'agəvər</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>заговора</grapheme>
+	<grapheme>Заговора</grapheme>
+	<phoneme>z'agɐvər ə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>заговоре</grapheme>
+	<grapheme>Заговоре</grapheme>
+	<phoneme>z'agəvərʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>заговором</grapheme>
+	<grapheme>Заговором</grapheme>
+	<phoneme>z'agəvərəm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>заговору</grapheme>
+	<grapheme>Заговору</grapheme>
+	<phoneme>z'agɐvə ru</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>задвигали</grapheme>
+	<grapheme>Задвигали</grapheme>
+	<phoneme>zədvʲ'i ɡəlʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>закуси</grapheme>
+	<grapheme>Закуси</grapheme>
+	<phoneme>zəkusʲ'i</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>замер</grapheme>
+	<grapheme>Замер</grapheme>
+	<phoneme>z'amʲir</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>замыкал</grapheme>
+	<grapheme>Замыкал</grapheme>
+	<phoneme>zəmɨk'al</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>замыкали</grapheme>
+	<grapheme>Замыкали</grapheme>
+	<phoneme>zəmɨk'alʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>запах</grapheme>
+	<grapheme>Запах</grapheme>
+	<phoneme>z'apəx</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>запахни</grapheme>
+	<grapheme>Запахни</grapheme>
+	<phoneme>zəpɐxnʲ'i</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>запахну</grapheme>
+	<grapheme>Запахну</grapheme>
+	<phoneme>zəpɐxn'u</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>запахнув</grapheme>
+	<grapheme>Запахнув</grapheme>
+	<phoneme>zəpɐxn'uv</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>запахнувшая</grapheme>
+	<grapheme>Запахнувшая</grapheme>
+	<phoneme>zəpɐxn'uvʂi jə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>запахнувшего</grapheme>
+	<grapheme>Запахнувшего</grapheme>
+	<phoneme>zəpɐxn'uvʂ ɨvə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>запахнувшее</grapheme>
+	<grapheme>Запахнувшее</grapheme>
+	<phoneme>zəpɐxn'uvʂi jə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>запахнувшей</grapheme>
+	<grapheme>Запахнувшей</grapheme>
+	<phoneme>zəpɐxn'uvʂɨ j</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>запахнувшем</grapheme>
+	<grapheme>Запахнувшем</grapheme>
+	<phoneme>zəpɐxn'uvʂ ɨm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>запахнувшему</grapheme>
+	<grapheme>Запахнувшему</grapheme>
+	<phoneme>zəpɐxn'u vʂɨmu</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>запахнувшею</grapheme>
+	<grapheme>Запахнувшею</grapheme>
+	<phoneme>zəpɐxn'uvʂɨ ju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>запахнувшие</grapheme>
+	<grapheme>Запахнувшие</grapheme>
+	<phoneme>zəpɐxn'uvʂɨ jə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>запахнувший</grapheme>
+	<grapheme>Запахнувший</grapheme>
+	<phoneme>zəpɐxn'uvʂɨ j</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>запахнувшим</grapheme>
+	<grapheme>Запахнувшим</grapheme>
+	<phoneme>zəpɐxn'uvʂ ɨm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>запахнувшими</grapheme>
+	<grapheme>Запахнувшими</grapheme>
+	<phoneme>zəpɐxn'uvʂ ɨmʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>запахнувших</grapheme>
+	<grapheme>Запахнувших</grapheme>
+	<phoneme>zəpɐxn'uvʂ ɨx</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>запахнувшую</grapheme>
+	<grapheme>Запахнувшую</grapheme>
+	<phoneme>zəpɐxn'uvʂuju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>запахнут</grapheme>
+	<grapheme>Запахнут</grapheme>
+	<phoneme>zəpɐ xn'ut</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>запрет</grapheme>
+	<grapheme>Запрет</grapheme>
+	<phoneme>zɨprʲ'et</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>затыкали</grapheme>
+	<grapheme>Затыкали</grapheme>
+	<phoneme>zətɨk'alʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>затыкать</grapheme>
+	<grapheme>Затыкать</grapheme>
+	<phoneme>zətɨk'atʲ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>затыкаю</grapheme>
+	<grapheme>Затыкаю</grapheme>
+	<phoneme>zətɨk'aju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>здорово</grapheme>
+	<grapheme>Здорово</grapheme>
+	<phoneme>zd'orəvə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>земли</grapheme>
+	<grapheme>Земли</grapheme>
+	<phoneme>zʲəmlʲ'i</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>змея</grapheme>
+	<grapheme>Змея</grapheme>
+	<phoneme>zmʲij'a</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>инструктора</grapheme>
+	<grapheme>Инструктора</grapheme>
+	<phoneme>instr'uktə rə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>капель</grapheme>
+	<grapheme>Капель</grapheme>
+	<phoneme>k'apʲilʲ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>колокола</grapheme>
+	<grapheme>Колокола</grapheme>
+	<phoneme>kɐlɐ kɐl'a</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>коробки</grapheme>
+	<grapheme>Коробки</grapheme>
+	<phoneme>kɐr'obkʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>коробку</grapheme>
+	<grapheme>Коробку</grapheme>
+	<phoneme>kɐr'obku</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>коробок</grapheme>
+	<grapheme>Коробок</grapheme>
+	<phoneme>kɐr'obək</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>красноты</grapheme>
+	<grapheme>Красноты</grapheme>
+	<phoneme>krəsnɐt'ɨ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>крупу</grapheme>
+	<grapheme>Крупу</grapheme>
+	<phoneme>kru p'u</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>крупы</grapheme>
+	<grapheme>Крупы</grapheme>
+	<phoneme>krup'ɨ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>лишаю</grapheme>
+	<grapheme>Лишаю</grapheme>
+	<phoneme>lʲiʂ'aju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>мерзлоты</grapheme>
+	<grapheme>Мерзлоты</grapheme>
+	<phoneme>mʲirzlɐt'ɨ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>мерил</grapheme>
+	<grapheme>Мерил</grapheme>
+	<phoneme>mʲ'erʲəl</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>методы</grapheme>
+	<grapheme>Методы</grapheme>
+	<phoneme>mʲ'etə dɨ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>мирам</grapheme>
+	<grapheme>Мирам</grapheme>
+	<phoneme>mʲir'am</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>мирами</grapheme>
+	<grapheme>Мирами</grapheme>
+	<phoneme>mʲir'amʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>мирах</grapheme>
+	<grapheme>Мирах</grapheme>
+	<phoneme>mʲir'ax</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>миров</grapheme>
+	<grapheme>Миров</grapheme>
+	<phoneme>mʲir'ov</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>набухал</grapheme>
+	<grapheme>Набухал</grapheme>
+	<phoneme>nəbux'al</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>набухало</grapheme>
+	<grapheme>Набухало</grapheme>
+	<phoneme>nəbux'alə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>нападавший</grapheme>
+	<grapheme>Нападавший</grapheme>
+	<phoneme>nəpɐd'a vʂɨj</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>нападали</grapheme>
+	<grapheme>Нападали</grapheme>
+	<phoneme>nəpɐd'alʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>напасти</grapheme>
+	<grapheme>Напасти</grapheme>
+	<phoneme>nɐp'a sʲtʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>начал</grapheme>
+	<grapheme>Начал</grapheme>
+	<phoneme>n'at͡ɕəl</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>начала</grapheme>
+	<grapheme>Начала</grapheme>
+	<phoneme>nət͡ɕil'a</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>нем</grapheme>
+	<grapheme>Нем</grapheme>
+	<phoneme>nʲ'om</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>образа</grapheme>
+	<grapheme>Образа</grapheme>
+	<phoneme>'obrə zə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>озера</grapheme>
+	<grapheme>Озера</grapheme>
+	<phoneme>'ozʲirə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>озерца</grapheme>
+	<grapheme>Озерца</grapheme>
+	<phoneme>ɐzʲirt͡s 'a</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>опознаю</grapheme>
+	<grapheme>Опознаю</grapheme>
+	<phoneme>ɐpɐzn'aj u</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>отражен</grapheme>
+	<grapheme>Отражен</grapheme>
+	<phoneme>ɐt rɐʐʲ'on</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>отрезав</grapheme>
+	<grapheme>Отрезав</grapheme>
+	<phoneme>ɐtrʲ'ezəf</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>отсек</grapheme>
+	<grapheme>Отсек</grapheme>
+	<phoneme>ɐtsʲ 'ek</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>отсеки</grapheme>
+	<grapheme>Отсеки</grapheme>
+	<phoneme>ɐtsʲ'ekʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>отсеку</grapheme>
+	<grapheme>Отсеку</grapheme>
+	<phoneme>ɐt sʲ'eku</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>отсыпав</grapheme>
+	<grapheme>Отсыпав</grapheme>
+	<phoneme>ɐts'ɨp əv</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парившая</grapheme>
+	<grapheme>Парившая</grapheme>
+	<phoneme>pɐrʲ'ivʂijə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парившие</grapheme>
+	<grapheme>Парившие</grapheme>
+	<phoneme>pɐrʲ'ivʂɨjə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парившим</grapheme>
+	<grapheme>Парившим</grapheme>
+	<phoneme>pɐrʲ'i vʂɨm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парившими</grapheme>
+	<grapheme>Парившими</grapheme>
+	<phoneme>pɐrʲ'i vʂɨmʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>паривших</grapheme>
+	<grapheme>Паривших</grapheme>
+	<phoneme>pɐrʲ'i vʂɨx</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парившую</grapheme>
+	<grapheme>Парившую</grapheme>
+	<phoneme>pɐrʲ'ivʂuj u</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парил</grapheme>
+	<grapheme>Парил</grapheme>
+	<phoneme>pɐrʲ'il</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парила</grapheme>
+	<grapheme>Парила</grapheme>
+	<phoneme>pɐ rʲ'ilə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парили</grapheme>
+	<grapheme>Парили</grapheme>
+	<phoneme>pɐrʲ'ilʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парило</grapheme>
+	<grapheme>Парило</grapheme>
+	<phoneme>pɐ rʲ'ilə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парим</grapheme>
+	<grapheme>Парим</grapheme>
+	<phoneme>pɐrʲ'im</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парит</grapheme>
+	<grapheme>Парит</grapheme>
+	<phoneme>pɐ rʲ'it</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парите</grapheme>
+	<grapheme>Парите</grapheme>
+	<phoneme>pɐrʲ'itʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>паришь</grapheme>
+	<grapheme>Паришь</grapheme>
+	<phoneme>pɐ rʲ'iʂ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парю</grapheme>
+	<grapheme>Парю</grapheme>
+	<phoneme>pɐ rʲ'u</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>паря</grapheme>
+	<grapheme>Паря</grapheme>
+	<phoneme>pɐrʲ'a</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парят</grapheme>
+	<grapheme>Парят</grapheme>
+	<phoneme>pɐ rʲ'a t</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парящая</grapheme>
+	<grapheme>Парящая</grapheme>
+	<phoneme>pɐrʲ'aɕːi jə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парящего</grapheme>
+	<grapheme>Парящего</grapheme>
+	<phoneme>pɐrʲ'aɕːi və</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парящее</grapheme>
+	<grapheme>Парящее</grapheme>
+	<phoneme>pɐrʲ'aɕːijə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парящей</grapheme>
+	<grapheme>Парящей</grapheme>
+	<phoneme>pɐrʲ'aɕːi j</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парящем</grapheme>
+	<grapheme>Парящем</grapheme>
+	<phoneme>pɐrʲ'aɕːim</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парящему</grapheme>
+	<grapheme>Парящему</grapheme>
+	<phoneme>pɐrʲ'aɕːim u</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парящею</grapheme>
+	<grapheme>Парящею</grapheme>
+	<phoneme>pɐrʲ'aɕːə ju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парящие</grapheme>
+	<grapheme>Парящие</grapheme>
+	<phoneme>pɐrʲ'aɕːi jə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парящий</grapheme>
+	<grapheme>Парящий</grapheme>
+	<phoneme>pɐrʲ'aɕ:i j</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парящими</grapheme>
+	<grapheme>Парящими</grapheme>
+	<phoneme>pɐrʲ'aɕːə mʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парящих</grapheme>
+	<grapheme>Парящих</grapheme>
+	<phoneme>pɐrʲ'aɕː ix</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>парящую</grapheme>
+	<grapheme>Парящую</grapheme>
+	<phoneme>pɐrʲ'a ɕːɨju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>перебегавший</grapheme>
+	<grapheme>Перебегавший</grapheme>
+	<phoneme>pʲirʲi bʲiɡ'avʂɨ j</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>перебегаем</grapheme>
+	<grapheme>Перебегаем</grapheme>
+	<phoneme>pʲirʲibʲiɡ'aji m</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>перебегает</grapheme>
+	<grapheme>Перебегает</grapheme>
+	<phoneme>pʲirʲibʲiɡ'ait</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>перебегал</grapheme>
+	<grapheme>Перебегал</grapheme>
+	<phoneme>pʲirʲibʲi g'al</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>перебегали</grapheme>
+	<grapheme>Перебегали</grapheme>
+	<phoneme>pʲirʲibiɡ'alʲ i</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>перебегать</grapheme>
+	<grapheme>Перебегать</grapheme>
+	<phoneme>pʲirʲibʲi ɡ'atʲ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>перебегают</grapheme>
+	<grapheme>Перебегают</grapheme>
+	<phoneme>pʲirʲibʲiɡ'ajut</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>перебегая</grapheme>
+	<grapheme>Перебегая</grapheme>
+	<phoneme>pʲirʲibʲiɡ'a jɐ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>передохнув</grapheme>
+	<grapheme>Передохнув</grapheme>
+	<phoneme>pʲirʲi dɐxn'uv</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>пили</grapheme>
+	<grapheme>Пили</grapheme>
+	<phoneme>pʲ'ilʲ i</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>писаться</grapheme>
+	<grapheme>Писаться</grapheme>
+	<phoneme>pʲ'isət͡sə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>плену</grapheme>
+	<grapheme>Плену</grapheme>
+	<phoneme>plʲən'u</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>подвижного</grapheme>
+	<grapheme>Подвижного</grapheme>
+	<phoneme>pɐ dvʲ'iʐnəvə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>подвижное</grapheme>
+	<grapheme>Подвижное</grapheme>
+	<phoneme>pɐdvʲ'iʐnəjə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>подвижной</grapheme>
+	<grapheme>Подвижной</grapheme>
+	<phoneme>pɐdvʲ'iʐn əj</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>подвижном</grapheme>
+	<grapheme>Подвижном</grapheme>
+	<phoneme>pɐdvʲ'iʐn əm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>подвижному</grapheme>
+	<grapheme>Подвижному</grapheme>
+	<phoneme>pɐ dvʲ'iʐnɨ mu</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>подвижною</grapheme>
+	<grapheme>Подвижною</grapheme>
+	<phoneme>pɐ dvʲ'iʐnə ju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>подвижную</grapheme>
+	<grapheme>Подвижную</grapheme>
+	<phoneme>pɐ dvʲ'iʐnuju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>подвижные</grapheme>
+	<grapheme>Подвижные</grapheme>
+	<phoneme>pɐ dvʲ'iʐnɨjə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>подвижным</grapheme>
+	<grapheme>Подвижным</grapheme>
+	<phoneme>pɐ dvʲ'iʐnɨ m</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>подвижными</grapheme>
+	<grapheme>Подвижными</grapheme>
+	<phoneme>pɐdvʲ'i ʐnɨmʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>подвижных</grapheme>
+	<grapheme>Подвижных</grapheme>
+	<phoneme>pɐdvʲ'iʐn ɨx</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>подсели</grapheme>
+	<grapheme>Подсели</grapheme>
+	<phoneme>pɐdsʲ'elʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>полке</grapheme>
+	<grapheme>Полке</grapheme>
+	<phoneme>p'olkʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>полки</grapheme>
+	<grapheme>Полки</grapheme>
+	<phoneme>p'olkʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>полосу</grapheme>
+	<grapheme>Полосу</grapheme>
+	<phoneme>pə lɐs'u</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>пора</grapheme>
+	<grapheme>Пора</grapheme>
+	<phoneme>pɐr'a</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>порту</grapheme>
+	<grapheme>Порту</grapheme>
+	<phoneme>p'or tu</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>посыпалась</grapheme>
+	<grapheme>Посыпалась</grapheme>
+	<phoneme>pɐs'ɨpɨləsʲ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>потом</grapheme>
+	<grapheme>Потом</grapheme>
+	<phoneme>pɐt'om</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>пошло</grapheme>
+	<grapheme>Пошло</grapheme>
+	<phoneme>pɐ ʂl'o</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>пробегает</grapheme>
+	<grapheme>Пробегает</grapheme>
+	<phoneme>prəbʲiɡ'ait</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>пробегал</grapheme>
+	<grapheme>Пробегал</grapheme>
+	<phoneme>prəbʲig'al</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>пробегали</grapheme>
+	<grapheme>Пробегали</grapheme>
+	<phoneme>prəbʲig'alʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>пробегало</grapheme>
+	<grapheme>Пробегало</grapheme>
+	<phoneme>prəbʲiɡ'alə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>пробегать</grapheme>
+	<grapheme>Пробегать</grapheme>
+	<phoneme>prəbʲiɡ'atʲ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>пробегая</grapheme>
+	<grapheme>Пробегая</grapheme>
+	<phoneme>prəbʲig'ajɐ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>провода</grapheme>
+	<grapheme>Провода</grapheme>
+	<phoneme>prəvɐ d'a</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>проводам</grapheme>
+	<grapheme>Проводам</grapheme>
+	<phoneme>prəvɐd'am</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>проводами</grapheme>
+	<grapheme>Проводами</grapheme>
+	<phoneme>prəvɐd'amʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>проводах</grapheme>
+	<grapheme>Проводах</grapheme>
+	<phoneme>prəvɐd'ax</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>проводов</grapheme>
+	<grapheme>Проводов</grapheme>
+	<phoneme>prəvɐd'ov</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>проводок</grapheme>
+	<grapheme>Проводок</grapheme>
+	<phoneme>prəvɐd'ok</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>проклятая</grapheme>
+	<grapheme>Проклятая</grapheme>
+	<phoneme>pr'oklʲitəjə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>проклятого</grapheme>
+	<grapheme>Проклятого</grapheme>
+	<phoneme>pr'oklʲitəvə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>проклятое</grapheme>
+	<grapheme>Проклятое</grapheme>
+	<phoneme>pr'oklʲitəjə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>проклятой</grapheme>
+	<grapheme>Проклятой</grapheme>
+	<phoneme>pr'oklʲitəj</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>проклятом</grapheme>
+	<grapheme>Проклятом</grapheme>
+	<phoneme>pr'oklʲit əm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>проклятому</grapheme>
+	<grapheme>Проклятому</grapheme>
+	<phoneme>pr'oklʲitə mu</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>проклятою</grapheme>
+	<grapheme>Проклятою</grapheme>
+	<phoneme>pr'o klʲitɐ ju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>проклятую</grapheme>
+	<grapheme>Проклятую</grapheme>
+	<phoneme>pr'oklʲituju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>проклятые</grapheme>
+	<grapheme>Проклятые</grapheme>
+	<phoneme>pr'oklʲitɨjə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>проклятый</grapheme>
+	<grapheme>Проклятый</grapheme>
+	<phoneme>pr'oklʲitɨj</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>проклятым</grapheme>
+	<grapheme>Проклятым</grapheme>
+	<phoneme>pr'o klʲitɨm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>проклятыми</grapheme>
+	<grapheme>Проклятыми</grapheme>
+	<phoneme>pr'oklʲitɨ mʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>проклятых</grapheme>
+	<grapheme>Проклятых</grapheme>
+	<phoneme>pr'oklʲit ɨx</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>просыпалась</grapheme>
+	<grapheme>Просыпалась</grapheme>
+	<phoneme>prəsɨp'aləsʲ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>просыпался</grapheme>
+	<grapheme>Просыпался</grapheme>
+	<phoneme>prə sɨp'alsʲə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>просыпаться</grapheme>
+	<grapheme>Просыпаться</grapheme>
+	<phoneme>prəsɨp'at͡sə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>протыкая</grapheme>
+	<grapheme>Протыкая</grapheme>
+	<phoneme>prətɨk'ajə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>пугал</grapheme>
+	<grapheme>Пугал</grapheme>
+	<phoneme>pug'al</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>пугала</grapheme>
+	<grapheme>Пугала</grapheme>
+	<phoneme>puɡ'a lə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>пугало</grapheme>
+	<grapheme>Пугало</grapheme>
+	<phoneme>puɡ'a lə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>пушку</grapheme>
+	<grapheme>Пушку</grapheme>
+	<phoneme>p'u ʂku</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>пяток</grapheme>
+	<grapheme>Пяток</grapheme>
+	<phoneme>pʲ'a tək</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>разрезав</grapheme>
+	<grapheme>Разрезав</grapheme>
+	<phoneme>rɐzrʲ'e zəv</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>разрезал</grapheme>
+	<grapheme>Разрезал</grapheme>
+	<phoneme>rɐzrʲ'ezə l</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>рапорта</grapheme>
+	<grapheme>Рапорта</grapheme>
+	<phoneme>r'apərtə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>ремесла</grapheme>
+	<grapheme>Ремесла</grapheme>
+	<phoneme>rʲimʲisl'a</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>рожу</grapheme>
+	<grapheme>Рожу</grapheme>
+	<phoneme>r'oʐu</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>самого</grapheme>
+	<grapheme>Самого</grapheme>
+	<phoneme>s'aməvə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>самой</grapheme>
+	<grapheme>Самой</grapheme>
+	<phoneme>s'aməj</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>самом</grapheme>
+	<grapheme>Самом</grapheme>
+	<phoneme>s'am əm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>самому</grapheme>
+	<grapheme>Самому</grapheme>
+	<phoneme>s'aməmu</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>санинструктора</grapheme>
+	<grapheme>Санинструктора</grapheme>
+	<phoneme>sən instr'uktərə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>свитера</grapheme>
+	<grapheme>Свитера</grapheme>
+	<phoneme>svʲ'itə rə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>снимите</grapheme>
+	<grapheme>Снимите</grapheme>
+	<phoneme>sʲnʲi mʲ'itʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>сорта</grapheme>
+	<grapheme>Сорта</grapheme>
+	<phoneme>s'or tə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>сползала</grapheme>
+	<grapheme>Сползала</grapheme>
+	<phoneme>spɐlz'alə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>срезав</grapheme>
+	<grapheme>Срезав</grapheme>
+	<phoneme>srʲ'ezə v</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>старшина</grapheme>
+	<grapheme>Старшина</grapheme>
+	<phoneme>stərʂɨn'a</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>стою</grapheme>
+	<grapheme>Стою</grapheme>
+	<phoneme>stɐj'u</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>стрелки</grapheme>
+	<grapheme>Стрелки</grapheme>
+	<phoneme>strʲ'elkʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>строгая</grapheme>
+	<grapheme>Строгая</grapheme>
+	<phoneme>str'ogəjə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>судьбы</grapheme>
+	<grapheme>Судьбы</grapheme>
+	<phoneme>sudʲb'ɨ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>сыра</grapheme>
+	<grapheme>Сыра</grapheme>
+	<phoneme>s'ɨrə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>тона</grapheme>
+	<grapheme>Тона</grapheme>
+	<phoneme>t'onə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>узнает</grapheme>
+	<grapheme>Узнает</grapheme>
+	<phoneme>uzn'ajət</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>узнаешь</grapheme>
+	<grapheme>Узнаешь</grapheme>
+	<phoneme>uzn'ajiʂ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>устали</grapheme>
+	<grapheme>Устали</grapheme>
+	<phoneme>ust'alʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>утра</grapheme>
+	<grapheme>Утра</grapheme>
+	<phoneme>utr'a</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>целую</grapheme>
+	<grapheme>Целую</grapheme>
+	<phoneme>t͡s'ɛluju</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>части</grapheme>
+	<grapheme>Части</grapheme>
+	<phoneme>t͡ɕ'asʲtʲi</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>черт</grapheme>
+	<grapheme>Черт</grapheme>
+	<phoneme>t͡ɕ'ort</phoneme>
+</lexeme>
+</lexicon>
+
