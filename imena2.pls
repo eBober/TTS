@@ -203,12 +203,14 @@
 </lexeme>
 <lexeme>
 	<grapheme>Agile</grapheme>
+	<grapheme>Agile</grapheme>
 	<alias>аджайл</alias>
 	<grammar>NOUN</grammar>
 	<lexname>imena2</lexname>
 </lexeme>
 <lexeme>
 	<grapheme>scrum</grapheme>
+	<grapheme>Scrum</grapheme>
 	<phoneme>skra:m</phoneme>
 	<grammar>NOUN</grammar>
 	<lexname>imena2</lexname>
