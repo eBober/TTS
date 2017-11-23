@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+    xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+    http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+    alphabet="ipa" xml:lang="ru-RU">
+<!---->
+<lexeme>
+	<grapheme>а-а</grapheme>
+	<grapheme>А-а</grapheme>
+	<phoneme>'aɐ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>ау-у</grapheme>
+	<grapheme>Ау-у</grapheme>
+	<phoneme>ɐu'uu</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>бе-е</grapheme>
+	<grapheme>Бе-е</grapheme>
+	<phoneme>bʲ'eee'e</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>бр-р</grapheme>
+	<grapheme>Бр-р</grapheme>
+	<phoneme>b'ɨrrr</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>во-о</grapheme>
+	<grapheme>Во-о</grapheme>
+	<phoneme>v'oo</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>во-от</grapheme>
+	<grapheme>Во-от</grapheme>
+	<phoneme>vo'ot</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>да-а</grapheme>
+	<grapheme>Да-а</grapheme>
+	<phoneme>d'aaə'a</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>и-и</grapheme>
+	<grapheme>И-и</grapheme>
+	<phoneme>i'ii</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>ка-ак</grapheme>
+	<grapheme>Ка-ак</grapheme>
+	<phoneme>kaə'ak</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>ка-ар</grapheme>
+	<grapheme>Ка-ар</grapheme>
+	<phoneme>kɐ'aa'ar</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>каъ</grapheme>
+	<grapheme>Каъ</grapheme>
+	<phoneme>kə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>кого-о</grapheme>
+	<grapheme>Кого-о</grapheme>
+	<phoneme>kavo'o</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>кто-о</grapheme>
+	<grapheme>Кто-о</grapheme>
+	<phoneme>kto'o</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>м-м</grapheme>
+	<grapheme>М-м</grapheme>
+	<phoneme>mmm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>ме-е</grapheme>
+	<grapheme>Ме-е</grapheme>
+	<phoneme>mʲ'eee'e</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>му-у</grapheme>
+	<grapheme>Му-у</grapheme>
+	<phoneme>mu'u'u</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>не-е</grapheme>
+	<grapheme>Не-е</grapheme>
+	<phoneme>nʲ'eee'e</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>не-е-т</grapheme>
+	<grapheme>Не-е-т</grapheme>
+	<phoneme>nʲe'eee'et</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>но-о</grapheme>
+	<grapheme>Но-о</grapheme>
+	<phoneme>n'ooo</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>ну-у</grapheme>
+	<grapheme>Ну-у</grapheme>
+	<phoneme>nu'u'u</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>о-о</grapheme>
+	<grapheme>О-о</grapheme>
+	<phoneme>o'o</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>пр-р</grapheme>
+	<grapheme>Пр-р</grapheme>
+	<phoneme>p'ɨrr</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>р-р</grapheme>
+	<grapheme>Р-р</grapheme>
+	<phoneme>rrr r</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>съ</grapheme>
+	<grapheme>Съ</grapheme>
+	<phoneme>s</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>та-ак</grapheme>
+	<grapheme>Та-ак</grapheme>
+	<phoneme>tɐ'aɐɐk</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>та-ам</grapheme>
+	<grapheme>Та-ам</grapheme>
+	<phoneme>t'aaa'am</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>тоъ</grapheme>
+	<grapheme>Тоъ</grapheme>
+	<phoneme>tə</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>тс-с</grapheme>
+	<grapheme>Тс-с</grapheme>
+	<phoneme>t͡sss</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>у-у</grapheme>
+	<grapheme>У-у</grapheme>
+	<phoneme>u'u'u</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>ура-а</grapheme>
+	<grapheme>Ура-а</grapheme>
+	<phoneme>ura'aa</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>фу-у</grapheme>
+	<grapheme>Фу-у</grapheme>
+	<phoneme>fu'uu</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>хм-м</grapheme>
+	<grapheme>Хм-м</grapheme>
+	<phoneme>xmmm</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>чего-о</grapheme>
+	<grapheme>Чего-о</grapheme>
+	<phoneme>t͡ɕivo'o</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>чер-рт</grapheme>
+	<grapheme>Чер-рт</grapheme>
+	<phoneme>t͡ɕi'oort</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>что-о</grapheme>
+	<grapheme>Что-о</grapheme>
+	<phoneme>ʂto'o</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>ш-ш</grapheme>
+	<grapheme>Ш-ш</grapheme>
+	<phoneme>ʂʂʂ</phoneme>
+</lexeme>
+<lexeme>
+	<grapheme>э-э</grapheme>
+	<grapheme>Э-э</grapheme>
+	<phoneme>ɛ'ɛə'ɛ</phoneme>
+</lexeme>
+</lexicon>
+
