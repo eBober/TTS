@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<lexicon
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+      http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="x-sampa" xml:lang="ru-RU">
+<!--
+
+23/11/2017
+-->
+<lexeme>
+	<grapheme>Capability</grapheme>
+	<alias>капабилити</alias>
+	<lexname>imena2</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>cd-Rom</grapheme>
+	<alias>сиди ром</alias>
+	<lexname>imena2</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>com</grapheme>
+	<alias>ком</alias>
+	<lexname>imena2</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>Quicken</grapheme>
+	<alias>куикен</alias>
+	<grammar>NOUN</grammar>
+	<lexname>imena2</lexname>
+	<color>0xc7ffcc</color>
+</lexeme>
+<lexeme>
+	<grapheme>Аристотель</grapheme>
+	<phoneme>arʲɪst'otʲɪlʲ</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena2</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>аристотель</grapheme>
+	<phoneme>arʲɪst'otʲɪlʲ</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena2</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>Бэллоком</grapheme>
+	<phoneme>bɛl:ɐkəm</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena2</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>Бэллок</grapheme>
+	<phoneme>bɛlːək</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>Бэллока</grapheme>
+	<phoneme>bɛlːəkə</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>бэллока</grapheme>
+	<phoneme>bɛlːəkə</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>куикен</grapheme>
+	<phoneme>kʊʲɪkʲ'en</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena2</lexname>
+	<color>0xc7ffcc</color>
+</lexeme>
+<lexeme>
+	<grapheme>QuickerStill</grapheme>
+	<phoneme>kʊʲɪkʲ'ɪrstˌilː</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena2</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>rom</grapheme>
+	<phoneme>r'om</phoneme>
+	<lexname>imena2</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>Rom</grapheme>
+	<phoneme>r'om</phoneme>
+	<lexname>imena2</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>ROM</grapheme>
+	<phoneme>r'om</phoneme>
+	<lexname>imena2</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>Риццоли</grapheme>
+	<phoneme>rʲɪt͡sːolʲɪ</phoneme>
+	<grammar>NOUN VERB</grammar>
+	<lexname>imena</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>риццоли</grapheme>
+	<phoneme>rʲɪt͡sːolʲɪ</phoneme>
+	<grammar>NOUN VERB</grammar>
+	<lexname>imena</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>cd</grapheme>
+	<phoneme>sʲɪdi:</phoneme>
+	<lexname>imena2</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>CD</grapheme>
+	<phoneme>sʲɪdi:</phoneme>
+	<lexname>imena2</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>Томпкинса</grapheme>
+	<phoneme>t'omkɪnsɐ</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>Томпкинс</grapheme>
+	<phoneme>t'omkʲɪns</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>томпкинс</grapheme>
+	<phoneme>t'omkʲɪns</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>томпкинса</grapheme>
+	<phoneme>t'omkʲɪnsɐ</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>Вебстера</grapheme>
+	<phoneme>v'ɛbstərɐ</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena2</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>Вебстер</grapheme>
+	<phoneme>vɛbstər</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>вебстер</grapheme>
+	<phoneme>vɛbstər</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>Бэллоку</grapheme>
+	<phoneme>bɛlːəkʊ</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>Лаксу</grapheme>
+	<phoneme>laksʊ</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>Томпкинсом</grapheme>
+	<phoneme>t'omkɪnsom</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>Просперо</grapheme>
+	<phoneme>prɐsp'eˑro</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>менеджменту</grapheme>
+	<phoneme>m'ɛnədʐməntʊ</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>менеджмент</grapheme>
+	<phoneme>m'ɛnədʐmənt</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>agile</grapheme>
+	<alias>аджайл</alias>
+	<grammar>NOUN</grammar>
+	<lexname>imena2</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>Agile</grapheme>
+	<alias>аджайл</alias>
+	<grammar>NOUN</grammar>
+	<lexname>imena2</lexname>
+</lexeme>
+<lexeme>
+	<grapheme>scrum</grapheme>
+	<phoneme>skra:m</phoneme>
+	<grammar>NOUN</grammar>
+	<lexname>imena2</lexname>
+</lexeme>
+
+</lexicon>
